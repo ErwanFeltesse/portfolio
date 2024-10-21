@@ -1,45 +1,561 @@
-Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 16:47:10 +0000
+Started GET "/portfolio?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:35:18 +0000
+Cannot render console from 10.20.11.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#portfolio as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 1.2ms | Allocations: 515)
+  Rendered layout layouts/application.html.erb (Duration: 224.1ms | Allocations: 75721)
+Completed 200 OK in 236ms (Views: 228.4ms | ActiveRecord: 0.0ms | Allocations: 82118)
+
+
+Started GET "/portfolio?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:36:25 +0000
+Cannot render console from 10.20.11.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#portfolio as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 0.4ms | Allocations: 165)
+  Rendered layout layouts/application.html.erb (Duration: 2.6ms | Allocations: 1606)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms | Allocations: 2601)
+
+
+Started GET "/portfolio?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:37:18 +0000
 Cannot render console from 10.20.12.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
-  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#portfolio as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 0.0ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 13.7ms | Allocations: 5012)
+Completed 200 OK in 15ms (Views: 14.2ms | ActiveRecord: 0.0ms | Allocations: 5325)
+
+
+Started GET "/portfolio?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:40:02 +0000
+Cannot render console from 10.20.10.137! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#portfolio as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 0.4ms | Allocations: 159)
+  Rendered layout layouts/application.html.erb (Duration: 6.9ms | Allocations: 1604)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 2599)
+
+
+Started GET "/portfolio?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:40:31 +0000
+Cannot render console from 10.20.12.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#portfolio as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 0.1ms | Allocations: 17)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | Allocations: 1197)
+Completed 200 OK in 3ms (Views: 2.8ms | Allocations: 1951)
+
+
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:40:36 +0000
+Cannot render console from 10.20.12.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
 Processing by PagesController#welcome as HTML
   Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
   Rendering layout layouts/application.html.erb
   Rendering pages/welcome.html.erb within layouts/application
-  Rendered pages/welcome.html.erb within layouts/application (Duration: 1.2ms | Allocations: 547)
-  Rendered layout layouts/application.html.erb (Duration: 288.4ms | Allocations: 73799)
-Completed 200 OK in 305ms (Views: 294.4ms | ActiveRecord: 0.0ms | Allocations: 80196)
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 9.4ms | Allocations: 5421)
+  Rendered layout layouts/application.html.erb (Duration: 9.6ms | Allocations: 5499)
+Completed 500 Internal Server Error in 11ms (Allocations: 5840)
 
 
-Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 16:47:32 +0000
-Cannot render console from 10.20.12.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
-Processing by PagesController#welcome as HTML
-  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
-  Rendering layout layouts/application.html.erb
-  Rendering pages/welcome.html.erb within layouts/application
-  Rendered pages/welcome.html.erb within layouts/application (Duration: 0.1ms | Allocations: 15)
-  Rendered layout layouts/application.html.erb (Duration: 1.6ms | Allocations: 1137)
-Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 1450)
-
-
-Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 16:47:32 +0000
+  
+ActionView::Template::Error (undefined local variable or method `portfolio' for #<ActionView::Base:0x0000000000a550>
+Did you mean?  portfolio_url):
+    3:             I create digital solutions that drive growth and innovation.
+    4:         </div>
+    5:         <div class="btn-view-work">
+    6:         <%= link_to "View My Work", portfolio_path(portfolio) %>
+    7:         
+    8:         </div>
+    9: </section>
+  
+app/views/pages/welcome.html.erb:6
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:41:24 +0000
 Cannot render console from 10.20.11.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
 Processing by PagesController#welcome as HTML
   Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
   Rendering layout layouts/application.html.erb
   Rendering pages/welcome.html.erb within layouts/application
-  Rendered pages/welcome.html.erb within layouts/application (Duration: 0.0ms | Allocations: 15)
-  Rendered layout layouts/application.html.erb (Duration: 1.6ms | Allocations: 1135)
-Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 1442)
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 6.8ms | Allocations: 4129)
+  Rendered layout layouts/application.html.erb (Duration: 7.0ms | Allocations: 4208)
+Completed 500 Internal Server Error in 9ms (Allocations: 5161)
 
 
-Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 16:47:54 +0000
+  
+ActionView::Template::Error (undefined local variable or method `portfolio' for #<ActionView::Base:0x0000000000a6b8>
+Did you mean?  portfolio_url):
+    3:             I create digital solutions that drive growth and innovation.
+    4:         </div>
+    5:         <div class="btn-view-work">
+    6:         <%= link_to "View My Work", pages_path(portfolio) %>
+    7:         
+    8:         </div>
+    9: </section>
+  
+app/views/pages/welcome.html.erb:6
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:41:31 +0000
+Cannot render console from 10.20.10.137! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 6.6ms | Allocations: 4129)
+  Rendered layout layouts/application.html.erb (Duration: 6.8ms | Allocations: 4208)
+Completed 500 Internal Server Error in 8ms (Allocations: 5161)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `portfolio' for #<ActionView::Base:0x0000000000a898>
+Did you mean?  portfolio_url):
+    3:             I create digital solutions that drive growth and innovation.
+    4:         </div>
+    5:         <div class="btn-view-work">
+    6:         <%= link_to "View My Work", page_path(portfolio) %>
+    7:         
+    8:         </div>
+    9: </section>
+  
+app/views/pages/welcome.html.erb:6
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:41:44 +0000
+Cannot render console from 10.20.11.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 6.7ms | Allocations: 4129)
+  Rendered layout layouts/application.html.erb (Duration: 6.8ms | Allocations: 4208)
+Completed 500 Internal Server Error in 9ms (Allocations: 5161)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `portfolio' for #<ActionView::Base:0x0000000000aa00>
+Did you mean?  portfolio_url):
+    3:             I create digital solutions that drive growth and innovation.
+    4:         </div>
+    5:         <div class="btn-view-work">
+    6:         <%= link_to "View My Work", portfolios_path(portfolio) %>
+    7:         
+    8:         </div>
+    9: </section>
+  
+app/views/pages/welcome.html.erb:6
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:41:51 +0000
 Cannot render console from 10.20.12.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
 Processing by PagesController#welcome as HTML
   Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
   Rendering layout layouts/application.html.erb
   Rendering pages/welcome.html.erb within layouts/application
-  Rendered pages/welcome.html.erb within layouts/application (Duration: 0.0ms | Allocations: 15)
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 6.8ms | Allocations: 4128)
+  Rendered layout layouts/application.html.erb (Duration: 6.9ms | Allocations: 4208)
+Completed 500 Internal Server Error in 9ms (Allocations: 5165)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `portfolio' for #<ActionView::Base:0x0000000000ab68>
+Did you mean?  portfolio_url):
+    3:             I create digital solutions that drive growth and innovation.
+    4:         </div>
+    5:         <div class="btn-view-work">
+    6:         <%= link_to "View My Work", page_path(portfolio) %>
+    7:         
+    8:         </div>
+    9: </section>
+  
+app/views/pages/welcome.html.erb:6
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:42:49 +0000
+Cannot render console from 10.20.12.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 6.0ms | Allocations: 3979)
+  Rendered layout layouts/application.html.erb (Duration: 6.2ms | Allocations: 4057)
+Completed 500 Internal Server Error in 7ms (Allocations: 4328)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `portfolio' for #<ActionView::Base:0x0000000000aca8>
+Did you mean?  portfolio_url):
+    3:             I create digital solutions that drive growth and innovation.
+    4:         </div>
+    5:         <div class="btn-view-work">
+    6:         <%= link_to "View My Work", page_path(portfolio) %>
+    7:         
+    8:         </div>
+    9: </section>
+  
+app/views/pages/welcome.html.erb:6
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:43:08 +0000
+Cannot render console from 10.20.11.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 11.4ms | Allocations: 4128)
+  Rendered layout layouts/application.html.erb (Duration: 11.6ms | Allocations: 4207)
+Completed 500 Internal Server Error in 14ms (Allocations: 5159)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `portfolio' for #<ActionView::Base:0x0000000000ae38>
+Did you mean?  portfolio_url):
+    3:             I create digital solutions that drive growth and innovation.
+    4:         </div>
+    5:         <div class="btn-view-work">
+    6:         <%= link_to "View My Work", portfolio_path(portfolio) %>
+    7:         
+    8:         </div>
+    9: </section>
+  
+app/views/pages/welcome.html.erb:6
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:45:30 +0000
+Cannot render console from 10.20.10.137! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 6.5ms | Allocations: 3979)
+  Rendered layout layouts/application.html.erb (Duration: 6.7ms | Allocations: 4057)
+Completed 500 Internal Server Error in 7ms (Allocations: 4328)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `portfolio' for #<ActionView::Base:0x0000000000af78>
+Did you mean?  portfolio_url):
+    3:             I create digital solutions that drive growth and innovation.
+    4:         </div>
+    5:         <div class="btn-view-work">
+    6:         <%= link_to "View My Work", portfolio_path(portfolio) %>
+    7:         
+    8:         </div>
+    9: </section>
+  
+app/views/pages/welcome.html.erb:6
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:47:23 +0000
+Cannot render console from 10.20.11.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 6.2ms | Allocations: 3979)
+  Rendered layout layouts/application.html.erb (Duration: 6.4ms | Allocations: 4057)
+Completed 500 Internal Server Error in 7ms (Allocations: 4327)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `portfolio' for #<ActionView::Base:0x0000000000b0e0>
+Did you mean?  portfolio_url):
+    3:             I create digital solutions that drive growth and innovation.
+    4:         </div>
+    5:         <div class="btn-view-work">
+    6:         <%= link_to "View My Work", portfolio_path(portfolio) %>
+    7:         
+    8:         </div>
+    9: </section>
+  
+app/views/pages/welcome.html.erb:6
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:47:49 +0000
+Cannot render console from 10.20.11.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 10.2ms | Allocations: 5164)
+  Rendered layout layouts/application.html.erb (Duration: 10.4ms | Allocations: 5252)
+Completed 500 Internal Server Error in 18ms (ActiveRecord: 0.0ms | Allocations: 10441)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `portfolio' for #<ActionView::Base:0x000000000084d0>
+Did you mean?  portfolio_url):
+    3:             I create digital solutions that drive growth and innovation.
+    4:         </div>
+    5:         <div class="btn-view-work">
+    6:         <%= link_to "View My Work", portfolio_path(portfolio) %>
+    7:         
+    8:         </div>
+    9: </section>
+  
+app/views/pages/welcome.html.erb:6
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:51:11 +0000
+Cannot render console from 10.20.10.137! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 6.8ms | Allocations: 4129)
+  Rendered layout layouts/application.html.erb (Duration: 7.0ms | Allocations: 4209)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms | Allocations: 5169)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `portfolio' for #<ActionView::Base:0x000000000086b0>
+Did you mean?  portfolio_url):
+    3:             I create digital solutions that drive growth and innovation.
+    4:         </div>
+    5:         <div class="btn-view-work">
+    6:         <%= link_to "View My Work", page_path(portfolio) %>
+    7:         
+    8:         </div>
+    9: </section>
+  
+app/views/pages/welcome.html.erb:6
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:51:17 +0000
+Cannot render console from 10.20.11.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 7.0ms | Allocations: 4131)
+  Rendered layout layouts/application.html.erb (Duration: 7.2ms | Allocations: 4211)
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 0.0ms | Allocations: 5171)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `portfolio' for #<ActionView::Base:0x00000000008890>
+Did you mean?  portfolio_url):
+    3:             I create digital solutions that drive growth and innovation.
+    4:         </div>
+    5:         <div class="btn-view-work">
+    6:         <%= link_to "View My Work", pages_path(portfolio) %>
+    7:         
+    8:         </div>
+    9: </section>
+  
+app/views/pages/welcome.html.erb:6
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:51:50 +0000
+Cannot render console from 10.20.11.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 11.3ms | Allocations: 4129)
+  Rendered layout layouts/application.html.erb (Duration: 11.5ms | Allocations: 4209)
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms | Allocations: 5169)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `portfolio' for #<ActionView::Base:0x00000000008a48>
+Did you mean?  portfolio_url):
+    3:             I create digital solutions that drive growth and innovation.
+    4:         </div>
+    5:         <div class="btn-view-work">
+    6:         <%= link_to "View My Work", portfolios_path(portfolio) %>
+    7:         
+    8:         </div>
+    9: </section>
+  
+app/views/pages/welcome.html.erb:6
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:52:07 +0000
+Cannot render console from 10.20.12.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 11.3ms | Allocations: 4129)
+  Rendered layout layouts/application.html.erb (Duration: 11.5ms | Allocations: 4209)
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms | Allocations: 5169)
+
+
+  
+ActionView::Template::Error (undefined local variable or method `portfolio' for #<ActionView::Base:0x00000000008c28>
+Did you mean?  portfolio_url):
+    3:             I create digital solutions that drive growth and innovation.
+    4:         </div>
+    5:         <div class="btn-view-work">
+    6:         <%= link_to "View My Work", welcome_path(portfolio) %>
+    7:         
+    8:         </div>
+    9: </section>
+  
+app/views/pages/welcome.html.erb:6
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:52:28 +0000
+Cannot render console from 10.20.10.137! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 0.8ms | Allocations: 323)
+  Rendered layout layouts/application.html.erb (Duration: 59.6ms | Allocations: 25668)
+Completed 200 OK in 62ms (Views: 60.9ms | ActiveRecord: 0.0ms | Allocations: 26687)
+
+
+Started GET "/portfolio.portfolio" for 165.225.204.244 at 2024-10-21 21:52:35 +0000
+Cannot render console from 10.20.10.137! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#portfolio as */*
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 0.5ms | Allocations: 157)
+  Rendered layout layouts/application.html.erb (Duration: 2.0ms | Allocations: 1280)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 1726)
+
+
+Started GET "/portfolio.portfolio?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:53:13 +0000
+Cannot render console from 10.20.10.137! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#portfolio as */*
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 0.0ms | Allocations: 17)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | Allocations: 1206)
+Completed 200 OK in 3ms (Views: 2.7ms | Allocations: 1964)
+
+
+Started GET "/portfolio.portfolio?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:53:13 +0000
+Cannot render console from 10.20.11.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#portfolio as */*
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 0.0ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | Allocations: 1137)
+Completed 200 OK in 3ms (Views: 2.2ms | Allocations: 1443)
+
+
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:53:18 +0000
+Cannot render console from 10.20.12.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 0.2ms | Allocations: 82)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | Allocations: 1204)
+Completed 200 OK in 2ms (Views: 2.0ms | Allocations: 1508)
+
+
+Started GET "/portfolio.portfolio" for 165.225.204.244 at 2024-10-21 21:53:20 +0000
+Cannot render console from 10.20.10.137! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#portfolio as */*
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 0.0ms | Allocations: 15)
   Rendered layout layouts/application.html.erb (Duration: 1.6ms | Allocations: 1137)
-Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 1448)
+Completed 200 OK in 2ms (Views: 2.1ms | Allocations: 1443)
+
+
+Started GET "/portfolio.portfolio?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:53:34 +0000
+Cannot render console from 10.20.10.137! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#portfolio as */*
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 0.0ms | Allocations: 17)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | Allocations: 1197)
+Completed 200 OK in 3ms (Views: 2.6ms | Allocations: 1953)
+
+
+Started GET "/portfolio.portfolio?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:53:34 +0000
+Cannot render console from 10.20.11.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#portfolio as */*
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 0.0ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 1.5ms | Allocations: 1137)
+Completed 200 OK in 2ms (Views: 1.9ms | Allocations: 1443)
+
+
+Started GET "/portfolio.portfolio?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:54:17 +0000
+Cannot render console from 10.20.11.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#portfolio as */*
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 0.5ms | Allocations: 162)
+  Rendered layout layouts/application.html.erb (Duration: 2.8ms | Allocations: 1603)
+Completed 200 OK in 5ms (Views: 4.6ms | Allocations: 2672)
+
+
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:54:21 +0000
+Cannot render console from 10.20.10.137! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 4.3ms | Allocations: 4074)
+  Rendered layout layouts/application.html.erb (Duration: 4.4ms | Allocations: 4152)
+Completed 500 Internal Server Error in 5ms (Allocations: 4483)
+
+
+  
+ActionView::Template::Error (undefined method `path' for #<ActionView::Base:0x0000000000c2d8>):
+    3:             I create digital solutions that drive growth and innovation.
+    4:         </div>
+    5:         <div class="btn-view-work">
+    6:         <%= link_to "View My Work", path(:portfolio) %>
+    7:         
+    8:         </div>
+    9: </section>
+  
+app/views/pages/welcome.html.erb:6
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:54:36 +0000
+Cannot render console from 10.20.10.137! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 0.6ms | Allocations: 212)
+  Rendered layout layouts/application.html.erb (Duration: 2.7ms | Allocations: 1658)
+Completed 200 OK in 5ms (Views: 4.3ms | Allocations: 2644)
+
+
+Started GET "/portfolio" for 165.225.204.244 at 2024-10-21 21:54:38 +0000
+Cannot render console from 10.20.11.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#portfolio as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 0.5ms | Allocations: 155)
+  Rendered layout layouts/application.html.erb (Duration: 2.3ms | Allocations: 1277)
+Completed 200 OK in 3ms (Views: 2.8ms | Allocations: 1635)
+
+
+Started GET "/portfolio?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:57:00 +0000
+Cannot render console from 10.20.12.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#portfolio as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 0.4ms | Allocations: 159)
+  Rendered layout layouts/application.html.erb (Duration: 2.6ms | Allocations: 1694)
+Completed 200 OK in 5ms (Views: 4.0ms | Allocations: 2680)
+
+
+Started GET "/portfolio?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 21:57:00 +0000
+Cannot render console from 10.20.10.137! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#portfolio as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 0.0ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 1.7ms | Allocations: 1180)
+Completed 200 OK in 2ms (Views: 2.1ms | Allocations: 1485)
+
+
+Started GET "/" for 165.225.204.244 at 2024-10-21 21:57:05 +0000
+Cannot render console from 10.20.10.137! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 0.7ms | Allocations: 181)
+  Rendered layout layouts/application.html.erb (Duration: 2.4ms | Allocations: 1335)
+Completed 200 OK in 3ms (Views: 2.8ms | Allocations: 1692)
+
+
+Started GET "/portfolio" for 165.225.204.244 at 2024-10-21 21:57:06 +0000
+Cannot render console from 10.20.10.137! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#portfolio as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pages/portfolio.html.erb within layouts/application
+  Rendered pages/portfolio.html.erb within layouts/application (Duration: 0.0ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 1.8ms | Allocations: 1180)
+Completed 200 OK in 2ms (Views: 2.2ms | Allocations: 1484)
 
 

@@ -6,7 +6,6 @@ header {
             background-color: #333;
             color: white;
         }
-
         /* Nom de l'utilisateur */
         .logo {
             font-size: 1.5rem;
@@ -94,3 +93,31 @@ header {
             margin-top: 20px;
             font-size: 0.9rem;
         }
+        .projects-grid{
+            display: flex;
+            flex-direction: row;
+            margin-bottom: 100px;
+            margin-top: 50px;
+        }
+        .project{
+           display: flex;
+           flex-direction: column;
+           align-items: center;
+        }
+
+        img {
+          width: 300px ;
+        }
+       .ino{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 100px;
+        margin-bottom: 100px;
+       }
+       .portfolio-section{
+        margin: 15px;
+       }
+       #projects-ctn-title {
+        text-align: center;
+       }
