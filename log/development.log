@@ -1,0 +1,45 @@
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 16:47:10 +0000
+Cannot render console from 10.20.12.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 1.2ms | Allocations: 547)
+  Rendered layout layouts/application.html.erb (Duration: 288.4ms | Allocations: 73799)
+Completed 200 OK in 305ms (Views: 294.4ms | ActiveRecord: 0.0ms | Allocations: 80196)
+
+
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 16:47:32 +0000
+Cannot render console from 10.20.12.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 0.1ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | Allocations: 1137)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 1450)
+
+
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 16:47:32 +0000
+Cannot render console from 10.20.11.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 0.0ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | Allocations: 1135)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 1442)
+
+
+Started GET "/?allowEmbedForCodecademy=false&allowCopyAndPasteForCodecademy=true&allowFileUploadForCodecademy=true&allowFileDownloadForCodecademy=true&allowExternalLinkForCodecademy=true&allowAICodeExplainForCodecademy=true&allowAIChatAssistantForCodecademy=true&allowAIErrorExplainForCodecademy=true" for 165.225.204.244 at 2024-10-21 16:47:54 +0000
+Cannot render console from 10.20.12.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PagesController#welcome as HTML
+  Parameters: {"allowEmbedForCodecademy"=>"false", "allowCopyAndPasteForCodecademy"=>"true", "allowFileUploadForCodecademy"=>"true", "allowFileDownloadForCodecademy"=>"true", "allowExternalLinkForCodecademy"=>"true", "allowAICodeExplainForCodecademy"=>"true", "allowAIChatAssistantForCodecademy"=>"true", "allowAIErrorExplainForCodecademy"=>"true"}
+  Rendering layout layouts/application.html.erb
+  Rendering pages/welcome.html.erb within layouts/application
+  Rendered pages/welcome.html.erb within layouts/application (Duration: 0.0ms | Allocations: 15)
+  Rendered layout layouts/application.html.erb (Duration: 1.6ms | Allocations: 1137)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 1448)
+
+
